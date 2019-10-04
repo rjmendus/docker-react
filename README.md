@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and a deployment pipeline is setup to AWS Elastic Beanstalk using Travis-ci.
 
 ## Available Scripts
 
